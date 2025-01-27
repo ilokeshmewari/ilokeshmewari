@@ -21,7 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ilokeshmewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilokeshmewari" height="30" width="40" /></a>
 <a href="https://instagram.com/lokeshmewari11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokeshmewari11" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lokeshmewari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lokeshmewari" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ilokeshmewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ilokeshmewari" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ilokeshmewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ilokeshmewari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ilokeshmewari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ilokeshmewari" height="30" width="40" /></a>
@@ -37,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilokeshmewari&show_icons=true&locale=en&layout=compact" alt="ilokeshmewari" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilokeshmewari&show_icons=true&locale=en" alt="ilokeshmewari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilokeshmewari&" alt="ilokeshmewari" /></p>
